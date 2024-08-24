@@ -28,6 +28,3 @@ export default function mergeSort(array) {
 
   return mergedC;
 }
-
-const testArray = [9, 11, 1, 12, 5, 23, 87, 111, 2, 4];
-console.log(mergeSort(testArray));
