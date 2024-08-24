@@ -1,0 +1,20 @@
+{
+  "name": "merge-sort",
+  "version": "1.0.0",
+  "main": "merge-sort.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lnbEli/merge-sort.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lnbEli/merge-sort/issues"
+  },
+  "homepage": "https://github.com/lnbEli/merge-sort#readme",
+  "description": ""
+}
